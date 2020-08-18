@@ -1,6 +1,6 @@
 # nuxt-jquery
-NuxtJs Navbar Sticky on scroll using Jquery Library
-The script uses Jquery library as an import.
+NuxtJs Navbar Sticky on scroll using Jquery Library.
+The script demonstrate how to use Jquery in Nuxtjs.
 
 # TO GET STARTED
 npm install jquery
